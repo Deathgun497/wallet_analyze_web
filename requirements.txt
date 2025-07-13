@@ -1,0 +1,10 @@
+flask
+flask-login
+flask-sqlalchemy
+flask-mail
+aiohttp
+requests
+beautifulsoup4
+stripe
+python-dotenv
+werkzeug
